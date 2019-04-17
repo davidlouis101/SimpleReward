@@ -1,5 +1,4 @@
-# SimpleReward
-﻿<h1 align="center">SimpleReward  </h1>
+ <h1 align="center">SimpleReward  </h1>
  <h2 align="center">Part of the Simple family</h2>
 
 <p align="center">This plugin was intended for newcrest servers but has been made public. <br> Intended for Pocketmine-MP. <b>! Tested on version 1.10.0 ! </b></p> <br>

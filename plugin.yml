@@ -1,0 +1,17 @@
+name: SimpleRewards
+main: MCATECH\SimpleRewards\Main
+version: 1.0.0
+api: 3.7.2
+load: POSTWORLD
+author: MCATECH
+description: Mainly intented for the DailyRewards of Newcrest.ddns.net
+commands:
+ daily:
+  description: "Allows players to access daily rewars"
+  usage: "/daily"
+  permission: daily.command
+  #TODO make /resetreward to allow for multiple rewards a day
+  
+permissions:
+ daily.command:
+  default: true

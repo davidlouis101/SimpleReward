@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/MCPEATECH/SimpleReward
+branches:
+- master
+projects:
+  SimpleReward:
+    path: ""
+...

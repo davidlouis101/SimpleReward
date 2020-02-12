@@ -7,7 +7,7 @@ author: MCATECH
 description: Mainly intented for the DailyRewards of Newcrest.ddns.net
 commands:
  daily:
-  description: "Allows players to access daily rewars"
+  description: "Taglicher Reward"
   usage: "/daily"
   permission: daily.command
   #TODO make /resetreward to allow for multiple rewards a day
